@@ -1,3 +1,3 @@
 # novlib2d
-Extended LibGDX framework
-Will be a lifelong project :D
+Extended LibGDX framework.
+This will be a lifelong project :D
